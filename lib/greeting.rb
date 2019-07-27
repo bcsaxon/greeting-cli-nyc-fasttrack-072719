@@ -4,4 +4,4 @@ end
 
 input = gets.chomp 
 
-greeting("input")
+greeting(input)
